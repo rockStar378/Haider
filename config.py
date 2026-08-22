@@ -82,12 +82,12 @@ GIT_TOKEN = getenv(
 
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL",
-    "https://t.me/+pYRhze6SVqgyMWQ1",
+    "https://t.me/YTNAISHA",
 )
 
 SUPPORT_CHAT = getenv(
     "SUPPORT_CHAT",
-    "https://t.me/+pYRhze6SVqgyMWQ1",
+    "https://t.me/zone_chatt",
 )
 
 
@@ -236,62 +236,62 @@ confirmer = {}
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://files.catbox.moe/ed80pj.jpg",
+    "https://files.catbox.moe/zp16r1.mp4",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://files.catbox.moe/ed80pj.jpg",
+    "https://files.catbox.moe/zp16r1.mp4",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://files.catbox.moe/ed80pj.jpg",
+    "https://files.catbox.moe/zp16r1.mp4",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://files.catbox.moe/ed80pj.jpg",
+    "https://files.catbox.moe/zp16r1.mp4",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://files.catbox.moe/ed80pj.jpg",
+    "https://files.catbox.moe/zp16r1.mp4",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://files.catbox.moe/ed80pj.jpg",
+    "https://files.catbox.moe/zp16r1.mp4",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://files.catbox.moe/ed80pj.jpg",
+    "https://files.catbox.moe/zp16r1.mp4",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "https://files.catbox.moe/ed80pj.jpg",
+    "https://files.catbox.moe/zp16r1.mp4",
 )
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://files.catbox.moe/ed80pj.jpg",
+    "https://files.catbox.moe/zp16r1.mp4",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "https://files.catbox.moe/ed80pj.jpg",
+    "https://files.catbox.moe/zp16r1.mp4",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
     "SPOTIFY_ALBUM_IMG_URL",
-    "https://files.catbox.moe/ed80pj.jpg",
+    "https://files.catbox.moe/zp16r1.mp4",
 )
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
     "SPOTIFY_PLAYLIST_IMG_URL",
-    "https://files.catbox.moe/ed80pj.jpg",
+    "https://files.catbox.moe/zp16r1.mp4",
 )
 
 
