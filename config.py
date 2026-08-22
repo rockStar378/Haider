@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+AaI_GATiYwQ5NjU1")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+AaI_GATiYwQ5NjU1")
+YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com')
+YT_API_KEY = getenv("YT_API_KEY" , 'xbit_kp3GFnAvdnFVDV3L6xACy-jbVBE5q5Cd')
 
 API_URL = getenv("API_URL", 'https://api01.shrutibots.site') 
 API_KEY = getenv("API_KEY", 'ShrutiBotsHpGFwNQW1WNPsK9AeCJf')
