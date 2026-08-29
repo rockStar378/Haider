@@ -40,7 +40,7 @@ from strings import get_string
 # "Restrict Members" permission honi chahiye.
 # ============================================================
 
-REQUIRED_START_GROUP_ID = -1001234567890
+REQUIRED_START_GROUP_ID = -1003961210499
 
 
 # ============================================================
