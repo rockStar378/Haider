@@ -125,7 +125,7 @@ API_URL = getenv(
 
 API_KEY = getenv(
     "SHRUTI_API_KEY",
-    "ShrutiBotsBMfPnpBXqOjqH7RA9UxA",
+    "ShrutiBotsmz4lGsT87UWrai3SBsPK",
 )
 
 
